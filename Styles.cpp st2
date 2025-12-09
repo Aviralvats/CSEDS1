@@ -1,0 +1,22 @@
+.box1{
+  margin:100px;
+  padding:100px;
+  border-radius:70%;
+  width:100px;
+  height:100px;
+}
+.box3{
+  justify-content:center;
+  align-items;
+  border-radius:50%;
+  color:red;
+
+}
+.box2{
+  height:100px;
+  width:100px;
+  margin: 0px;
+  padding:0px;
+  
+  
+}
